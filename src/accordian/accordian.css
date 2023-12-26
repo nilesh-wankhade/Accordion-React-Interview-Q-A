@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.main-heading p{
+   cursor: pointer;
+   border-radius: 50%;
+   background-color: #fff;
+   padding: 5px;
+}
+.answer{
+    padding: 30px 20px 40px 20px;
+    font-size: 15px;
+    word-spacing: 2px;
+    font-weight: 400;
+    line-height: 1.7;
+    background-color: #fcf5f5;
+    color: rgb(40,37,53);
+}
