@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+## Project Image
+![project image](poject_image.png?raw=true "accordion-project-image")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
